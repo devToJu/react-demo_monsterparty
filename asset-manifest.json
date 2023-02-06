@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-demo_monsterparty/static/css/main.9ac1c515.css",
+    "main.js": "/react-demo_monsterparty/static/js/main.f7972127.js",
+    "static/media/m5.png": "/react-demo_monsterparty/static/media/m5.697b43823d7584c22061.png",
+    "static/media/m2.png": "/react-demo_monsterparty/static/media/m2.157c8528e377fdb6ec7d.png",
+    "static/media/m9.png": "/react-demo_monsterparty/static/media/m9.12bded08765645404007.png",
+    "static/media/m6.png": "/react-demo_monsterparty/static/media/m6.e7bfc05c6dfd21cce84b.png",
+    "static/media/m8.png": "/react-demo_monsterparty/static/media/m8.4c595e95eb8a5ef408b4.png",
+    "static/media/m1.png": "/react-demo_monsterparty/static/media/m1.4ef622ebac1bb874a026.png",
+    "static/media/m7.png": "/react-demo_monsterparty/static/media/m7.0620bd77eefe9868c2bd.png",
+    "static/media/m3.png": "/react-demo_monsterparty/static/media/m3.fda1c210dc245d1ab01f.png",
+    "static/media/m4.png": "/react-demo_monsterparty/static/media/m4.2bb2cfd5ff87c88c7a9f.png",
+    "index.html": "/react-demo_monsterparty/index.html",
+    "main.9ac1c515.css.map": "/react-demo_monsterparty/static/css/main.9ac1c515.css.map",
+    "main.f7972127.js.map": "/react-demo_monsterparty/static/js/main.f7972127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac1c515.css",
+    "static/js/main.f7972127.js"
+  ]
+}
